@@ -1,0 +1,30 @@
+[
+    {
+        "data": "2024-09-11",
+        "produto": "Loja Online",
+        "total_valor": 5000.0,
+        "total_quantidade": 12,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-11",
+        "produto": "Terceiros",
+        "total_valor": 74.0,
+        "total_quantidade": 12,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-12",
+        "produto": "Loja F\u00edsica",
+        "total_valor": 5847.34,
+        "total_quantidade": 32,
+        "total_vendas": 2
+    },
+    {
+        "data": "2024-09-12",
+        "produto": "Loja Online",
+        "total_valor": 85.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    }
+]

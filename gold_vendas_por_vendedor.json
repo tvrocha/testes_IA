@@ -1,0 +1,37 @@
+[
+    {
+        "vendedor": "gildo@gmail.com",
+        "data": "2024-09-11",
+        "total_valor": 74.0,
+        "total_quantidade": 12,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "mantugo@example.net",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 12,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "exemplo@example.net",
+        "data": "2024-09-12",
+        "total_valor": 1200.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "lambertbryan@example.org",
+        "data": "2024-09-12",
+        "total_valor": 4647.34,
+        "total_quantidade": 30,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "tuba@gmail.com",
+        "data": "2024-09-12",
+        "total_valor": 85.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    }
+]
